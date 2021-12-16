@@ -1,5 +1,11 @@
-![image](https://github.com/jmhobbs/cultofthepartyparrot.com/blob/main/parrots/hd/christmasparrot.gif?raw=true)
 
+<p align="center">
+  <img src="https://github.com/jmhobbs/cultofthepartyparrot.com/blob/main/parrots/hd/christmasparrot.gif?raw=true" />
+</p>
+
+### Hi I'm Adam!
+
+Always working on something, and I love to collaborate. Let's make something interesting.
 
 <!--
 **needmorecowbell/needmorecowbell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
