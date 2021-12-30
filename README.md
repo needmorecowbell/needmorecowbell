@@ -5,7 +5,7 @@
 
 ### Hi I'm Adam!
 
-Always working on something, and I love to collaborate. Let's make something interesting.![giphy](h
+Always working on something, and I love to collaborate. Let's make something interesting.
 
 
 <!--
