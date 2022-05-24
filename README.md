@@ -1,6 +1,4 @@
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=tCHKIdup5Lo"><img src="https://user-images.githubusercontent.com/7833164/147779122-00a64fd0-dd5d-4179-a405-6a5ae1923eaa.gif" /></a>
+<p align="center">  <img alt="github rating stats graphic with alternate metrics" src="https://github-readme-stats.vercel.app/api?username=needmorecowbell&amp;show_icons=true&amp;theme=blueberry&amp;hide_border=true&amp;count_private=true" align="middle">
 </p>
 
 ### Hi I'm Adam!
